@@ -87,4 +87,7 @@ Government College University Faisalabad, Pakistan
 - Ethical Hacking: Overview by LinkedIn Learning (03/2019)
 - Logic and Computational Thinking by Microsoft (10/2018)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nau4man)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Nau4man&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Nau4man&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
