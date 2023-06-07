@@ -5,7 +5,6 @@ I'm a Computer Scientist with a passion for problem-solving and a strong interes
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:officialnaumansabir@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naumansabir/)
 
-
 ## Experience
 
 **Sr. Python Developer** at Exponento, Lahore Pakistan  
@@ -88,3 +87,4 @@ Government College University Faisalabad, Pakistan
 - Ethical Hacking: Overview by LinkedIn Learning (03/2019)
 - Logic and Computational Thinking by Microsoft (10/2018)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nau4man)](https://github.com/anuraghazra/github-readme-stats)
