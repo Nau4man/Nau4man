@@ -1,8 +1,6 @@
 ![Profile Picture](bg.png)
 
-## Nauman Sabir -  Machine Learning Engineer | Python
-
-Welcome to my GitHub profile! I'm Nauman Sabir, a Computer Scientist with a passion for problem-solving and a strong interest in Machine Learning. I have a clear, logical mind and a practical approach to tackling challenges. My goal is to see projects through to completion while applying my expertise in building and deploying ML models.
+I'm a Computer Scientist with a passion for problem-solving and a strong interest in Machine Learning. I have a clear, logical mind and a practical approach to tackling challenges. My goal is to see projects through to completion while applying my expertise in building and deploying ML models.
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:officialnaumansabir@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naumansabir/)
